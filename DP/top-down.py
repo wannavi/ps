@@ -1,8 +1,6 @@
 import collections
 
 
-import collections
-
 N = int(input())
 dp = collections.defaultdict(int)
 
